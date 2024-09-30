@@ -1,0 +1,6 @@
+09:36:00.769 [main] INFO  TestComponents.Listeners - Test positiveTest  has started
+09:36:12.058 [main] INFO  TestComponents.Listeners - Test positiveTest  has passed
+09:36:24.369 [main] INFO  TestComponents.Listeners - Test positiveTest  has started
+09:36:36.643 [main] INFO  TestComponents.Listeners - Test positiveTest  has passed
+09:36:48.414 [main] INFO  TestComponents.Listeners - Test verifyOrderPresent  has started
+09:36:53.226 [main] INFO  TestComponents.Listeners - Test verifyOrderPresent  has passed

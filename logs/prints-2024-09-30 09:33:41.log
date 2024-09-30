@@ -1,0 +1,6 @@
+09:30:06.251 [main] INFO  TestComponents.Listeners - Test positiveTest  has passed
+09:30:21.201 [main] INFO  TestComponents.Listeners - Test verifyOrderPresent  has started
+09:30:26.273 [main] INFO  TestComponents.Listeners - Test verifyOrderPresent  has passed
+09:30:38.383 [main] INFO  TestComponents.Listeners - Test invalidCredTest  has started
+09:30:40.041 [main] ERROR TestComponents.Listeners - Test invalidCredTest  has failed
+09:33:37.547 [main] INFO  TestComponents.Listeners - Test positiveTest  has started

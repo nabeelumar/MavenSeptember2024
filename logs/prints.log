@@ -1,0 +1,2 @@
+09:47:03.509 [main] INFO  TestComponents.Listeners - Test invalidCredTest  has started
+09:47:05.342 [main] ERROR TestComponents.Listeners - Test invalidCredTest  has failed

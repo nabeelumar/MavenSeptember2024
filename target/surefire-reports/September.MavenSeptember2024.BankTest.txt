@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: September.MavenSeptember2024.BankTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.066 s -- in September.MavenSeptember2024.BankTest

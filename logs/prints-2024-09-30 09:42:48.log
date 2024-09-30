@@ -1,0 +1,6 @@
+09:37:05.909 [main] INFO  TestComponents.Listeners - Test invalidCredTest  has started
+09:37:08.074 [main] ERROR TestComponents.Listeners - Test invalidCredTest  has failed
+09:41:59.704 [main] INFO  TestComponents.Listeners - Test positiveTest  has started
+09:42:11.157 [main] INFO  TestComponents.Listeners - Test positiveTest  has passed
+09:42:23.641 [main] INFO  TestComponents.Listeners - Test positiveTest  has started
+09:42:36.179 [main] INFO  TestComponents.Listeners - Test positiveTest  has passed
